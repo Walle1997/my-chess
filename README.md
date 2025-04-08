@@ -1,5 +1,5 @@
 # <div align="center">Разработка шахмат на REACT+TYPESCRIPT (Практика ООП)</div>
-## <div align="center">Попробуй<a href="my-chess-tau.vercel.app">👨‍💻</a></div>
+## <div align="center">Попробуй<a href="https://my-chess-farids-projects-eaf9b1b4.vercel.app/">👨‍💻</a></div>
 
 ### Стек технологий:
 
